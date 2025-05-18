@@ -78,3 +78,18 @@ A simple web app is provided under the `app/` directory for real-time inference.
 cd app
 streamlit run ner-ui.py
 
+```
+
+## Contributors
+
+This project was developed by a student group as part of the NLP course (42850) at the University of Technology Sydney (UTS).
+
+Team Members:
+- Anusha Pariti
+- Abhinandan
+- Gaurav
+- Jeevanandh
+- Rajdeep
+
+License
+This repository is intended for academic use. Dataset sources retain their original licensing. Please cite if used in derivative works.
