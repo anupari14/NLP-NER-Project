@@ -1,8 +1,7 @@
 # Course Catalog Named Entity Recognition (NER)
 
-# Group6 Named Entity Recognition (NER) Pipeline
 
-This repository contains all the code and data files used by Group 6 for a domain-specific Named Entity Recognition (NER) project as part of our NLP course at UTS.
+This repository contains all the code and data files for a domain-specific Named Entity Recognition (NER) project as part of the 41043 42850 Natural Language Processing Natural Language Processing Algorithms - Autumn 2025 course at UTS.
 
 ## Repository Structure
 
